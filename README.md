@@ -1,19 +1,16 @@
 # Java-Programming
 
-# Java Learning Repository 🚀
+# Java Learning Repository
 
-Welcome to my Java learning journey! This repository is dedicated to documenting and storing all the Java programs, concepts, and mini-projects I work on while learning Java programming.
+Welcome to my Java learning repository! 👨‍💻  
+This repository is dedicated to tracking my progress as I learn Java programming from scratch.
 
 ---
 
-## 📚 About
+## 📌 General Overview
 
-This repo includes:
-- Core Java fundamentals
-- Object-Oriented Programming (OOP) concepts
-- Java Collections Framework
-- Exception Handling
-- File I/O
-- Java 8+ Features (Lambdas, Streams, etc.)
-- Mini projects and exercises
-- Practice questions from online platforms
+This repository will include:
+- Java programs and exercises
+- Concept-based code examples
+- Practice problems and mini-projects
+- Notes and learning resources
