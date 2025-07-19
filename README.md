@@ -1,11 +1,10 @@
 # Java-Programming
 
-
-## Welcome to my Java learning repository! 👨‍💻  
+Welcome to my Java learning repository! 👩‍💻  
 This repository is dedicated to tracking my progress as I learn Java programming from scratch.
-It is designed not just for personal use, but also to help others who are beginning their Java journey.
-Feel free to explore, learn, and contribute!
----
+
+This repo is not just for personal use—it’s also here to help others starting their Java journey. 
+Feel free to explore and learn!
 
 ## 📌 General Overview
 
