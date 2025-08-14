@@ -5,7 +5,7 @@ class weekday{
             case"Monday":System.out.println("Weekday");
                          break;
             case"Tuesday":System.out.println("Weekday");
-                          break;
+                          break; 
             case"Wednesday":System.out.println("Weekday");
                             break;
             case"Thursday":System.out.println("Weekday");
