@@ -6,7 +6,7 @@ class Sum{
         int a=sc.nextInt();
         System.out.println("Enter the value of b:");
         int b=sc.nextInt();
-        int sum=a+b;
+        int sum=a+b; 
         System.out.println("Sum of a and b:"+sum);
        
 
