@@ -5,7 +5,7 @@ class quadrant{
         if(x>0 &&y>0){
             System.out.println("quadrant 1");
         }else if(x<0 &&y>0){
-            System.out.println("quadrant 2");
+            System.out.println("quadrant 2"); 
         }else if(x<0 &&y<0){
             System.out.println("quadrant 3");
         }else{
