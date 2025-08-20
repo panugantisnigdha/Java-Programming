@@ -10,5 +10,5 @@ class Sum{
         System.out.println("Sum of a and b:"+sum); 
        
 
-    }
+    } 
 }
