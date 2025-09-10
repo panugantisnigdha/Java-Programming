@@ -1,0 +1,33 @@
+import java.util.*;
+class SubArraysSum{
+  public static void printSubArraysSum(int numbers[]){
+        int currentSum=0;
+        int MaxSum=Integer.MIN_VALUE;
+        for(int i=0;i<numbers.length;i++){
+          int start =i;  
+          for(int j=i;j<numbers.length;j++){
+            int end=j;
+            currentSum=0;
+            for(int k=start;k<=end;k++){
+                currentSum+=numbers[k];
+                
+               
+            }
+            System.out.println(currentSum);
+            if(MaxSum<currentSum){
+                MaxSum=currentSum;
+            }
+            
+            
+
+          }
+          
+          
+        }
+        System.out.println("Max sum: "+MaxSum);
+    }  
+    public static void main(String[] args){
+        int numbers[]={2,4,6,8,10};
+        printSubArraysSum(numbers);
+    }
+}
