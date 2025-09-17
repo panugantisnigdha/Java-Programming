@@ -10,7 +10,7 @@ class SelectionSort{
             }
             int temp=arr[minpos];
             arr[minpos]=arr[i];
-            arr[i]=temp;
+            arr[i]=temp; 
         }
     }
     public static void Printarr(int arr[]){
