@@ -6,6 +6,6 @@ class HalfPyramid{
                 System.out.print(number);
             }
             System.out.println();
-        }
+        } 
     }
 }
