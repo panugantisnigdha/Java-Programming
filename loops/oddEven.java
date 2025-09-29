@@ -10,7 +10,7 @@ class oddEven{
                 even+=x;
                 
             }else{
-                odd+=x;
+                odd+=x; 
             }
             System.out.println("Sum of even:"+even);
             System.out.println("Sum of Odd:"+odd);
